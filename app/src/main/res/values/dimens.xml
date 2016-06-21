@@ -18,4 +18,10 @@
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
 
+    <!-- font sizes -->
+
+       <dimen name="font_small_12">12sp</dimen>
+       <dimen name="font_normal_15">15sp</dimen>
+       <dimen name="font_large_12">18sp</dimen>
+       <dimen name="font_larger_12">22sp</dimen>
 </resources>
